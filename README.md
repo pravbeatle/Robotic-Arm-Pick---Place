@@ -1,5 +1,14 @@
 # Robotic arm - Pick & Place project
 
+<img width="501" alt="misc1" src="https://user-images.githubusercontent.com/5251742/46945841-9c8c2400-d093-11e8-9af5-ec4f0a1974df.png">
+
+Robotic Arm Model
+
+<img width="501" alt="misc2" src="https://user-images.githubusercontent.com/5251742/46945852-a0b84180-d093-11e8-9013-884605946039.png">
+
+Pick and Place programmed simulation 
+
+
 Make sure you are using robo-nd VM or have Ubuntu+ROS installed locally.
 
 ### One time Gazebo setup step:
